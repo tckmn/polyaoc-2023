@@ -39,6 +39,6 @@ how to run the programs:
 
 note that everything expects to be run from the directory containing `input`
 
-[01rb]:  https://github.com/tckmn/polyaoc-2023/tree/master/01/rb
-[11rb]:  https://github.com/tckmn/polyaoc-2023/tree/master/11/rb
-[22rb]:  https://github.com/tckmn/polyaoc-2023/tree/master/22/rb
+[01rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/01/rb
+[11rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/11/rb
+[22rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/22/rb
