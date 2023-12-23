@@ -11,10 +11,10 @@ same disclaimer as in 2021 except i'm even busier, so there'll probably be even 
 |    | rb        |
 | -  | -         |
 | 01 | [✓][01rb] |
-| 02 |           |
-| 03 |           |
-| 04 |           |
-| 05 |           |
+| 02 | [✓][02rb] |
+| 03 | [✓][03rb] |
+| 04 | [✓][04rb] |
+| 05 | [✓][05rb] |
 | 06 | [✓][06rb] |
 | 07 | [✓][07rb] |
 | 08 | [✓][08rb] |
@@ -41,6 +41,10 @@ how to run the programs:
 note that everything expects to be run from the directory containing `input`
 
 [01rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/01/rb
+[02rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/02/rb
+[03rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/03/rb
+[04rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/04/rb
+[05rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/05/rb
 [06rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/06/rb
 [07rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/07/rb
 [08rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/08/rb
