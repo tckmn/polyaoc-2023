@@ -32,6 +32,7 @@ same disclaimer as in 2021 except i'm even busier, so there'll probably be even 
 | 20 |           |
 | 21 |           |
 | 22 | [✓][22rb] |
+| 23 | [✓][23rb] |
 
 how to run the programs:
 
@@ -54,3 +55,4 @@ note that everything expects to be run from the directory containing `input`
 [17rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/17/rb
 [18rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/18/rb
 [22rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/22/rb
+[23rb]:  https://github.com/tckmn/polyaoc-2023/tree/main/23/rb
